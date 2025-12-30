@@ -1,5 +1,13 @@
 [submodule ".registry"]
 	path = .registry
 	url = https://github.com/r-universe-org/cran-to-git
-	shallow = true
 	branch = HEAD
+[submodule "CSDownscale"]
+	path = CSDownscale
+	url = https://github.com/cran/CSDownscale
+[submodule "CSIndicators"]
+	path = CSIndicators
+	url = https://github.com/cran/CSIndicators
+[submodule "CSTools"]
+	path = CSTools
+	url = https://github.com/cran/CSTools
